@@ -1,2 +1,2 @@
-# Module Authentification - version validée par l'équipe
+# Module Authentification - version validee par l'equipe
 # Module Statistiques - depend de l'authentification
